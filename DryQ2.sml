@@ -1,0 +1,10 @@
+nonfix <;
+fun <(a : 'a) = a;
+fun Never(a : 'a) = a;
+fun Gonna(a : 'a) = a;
+fun Give(a : 'a) = a;
+fun You(a : 'a) = a;
+fun Up(a : 'a) = a;
+nonfix !>;
+val !> = "never gonna let you down";
+<Never Gonna Give You Up!>;
